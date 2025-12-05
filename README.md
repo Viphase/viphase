@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img.png" width="300" height="300" alt="This is fine"/>
+  <img src="image.png" width="300" height="300" alt="This is fine"/>
 </p>
 <div id="user-content-toc" align="center">
   <ul>
