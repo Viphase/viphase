@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="new.png" width="600" border-radius="50" alt="This is fine"/>
+  <img src="new.png" width="600" style="border-radius: 30px;" alt="This is fine"/>
 </p>
 <div id="user-content-toc" align="center">
   <ul>
