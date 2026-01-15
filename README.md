@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="new.png" width="600" style="border-radius: 34px 1px 0px 0px" alt="img"/>
+  <img src="new.png" width="600" style="border-radius: 34px 1px 0px 0px" alt="kartinke"/>
 </p>
 <div id="user-content-toc" align="center">
   <ul>
