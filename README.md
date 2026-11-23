@@ -7,9 +7,8 @@
   </ul>
 </div><br>
 
- - 📚 Currently in Letovo School - 9th grade
+ - 📚 Currently in Letovo School - 10th grade
  - 🌱 Major in Computer Science
- - 🌎 Earthling
  - 💻 Open to any idea of any person
 
 ## 🥞 Stack
@@ -22,4 +21,3 @@
 [![X](https://shields.io)](#)
 [![Markdown](https://shields.io)](#)
 [![Figma](https://shields.io)](#)
-
